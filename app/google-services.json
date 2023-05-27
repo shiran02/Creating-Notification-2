@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601479614825",
+    "project_id": "notification-fb03d",
+    "storage_bucket": "notification-fb03d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601479614825:android:6e6a6e17dbd18f1f282df8",
+        "android_client_info": {
+          "package_name": "com.cadenza.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601479614825-qs6lb41qpbcqlj8nt09bvdrf1r76r8r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cadenza.notification",
+            "certificate_hash": "92f5262406fe9c9d95427005af4a371c041e1e14"
+          }
+        },
+        {
+          "client_id": "601479614825-i43avgf6c64ku6e2mh6ndorc5k2ao0tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIFmKKiM1q1CYiWKy35oN0IKXD9F-Jq6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601479614825-i43avgf6c64ku6e2mh6ndorc5k2ao0tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
